@@ -1,1 +1,13 @@
 theme: jekyll-theme-hacker
+
+title: br0k3n labs
+description: all the cyberzz
+# url: [Canonical URL for this blog]
+author:
+  name: @br0k3ns0und
+  # email: [Your email address]
+  # url: [URL of your website]
+
+paginate: 3
+owner: Justin I
+year: 2020
