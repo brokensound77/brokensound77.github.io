@@ -68,6 +68,7 @@ minima:
 
 # Build settings
 theme: minima
+remote-theme:  jekyll/minima
 plugins:
   - jekyll-feed
 
