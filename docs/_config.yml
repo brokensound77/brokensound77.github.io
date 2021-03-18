@@ -70,9 +70,7 @@ minima:
 theme: minima
 plugins:
   - jekyll-feed
-  # - jekyll-remote-theme
-
-# remote-theme: jekyll/minima
+  - jemoji
 
 
 # Exclude from processing.
