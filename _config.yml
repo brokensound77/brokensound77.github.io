@@ -67,12 +67,12 @@ minima:
 
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
-remote-theme: jekyll/minima
+# remote-theme: jekyll/minima
 
 
 # Exclude from processing.
