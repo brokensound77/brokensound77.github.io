@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test
-permalink: /test/
+title: Hello Python
+permalink: /hello-python/
 ---
 
 ## Testing

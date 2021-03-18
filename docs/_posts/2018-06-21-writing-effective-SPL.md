@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sifting through the SPLurge! Writing Effective Queries for Splunk with SPL 
+tags: splunk detections
 ---
 
 Splunk is arguably one of the most popular and powerful tools across the security space at the moment, and for good reason. 

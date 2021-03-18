@@ -28,7 +28,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://br0k3nlab.com" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# social
 minima:
   skin: solarized-dark
 
@@ -72,6 +71,12 @@ plugins:
   - jekyll-feed
   - jemoji
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - about.markdown
+  - pages/posts.md
+  - pages/hello_python.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
